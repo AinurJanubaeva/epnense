@@ -21,6 +21,7 @@ const asd=()=>{
 <button onClick={oes} >+</button>
 <h1>{count}</h1>
 <button onClick={asd}>-</button>
+<h1>hello</h1>
         </div>
     )
 }
